@@ -1,0 +1,5 @@
+metric,value,timestamp
+accuracy,1.0,2025-07-11 22:17:44
+precision,1.0,2025-07-11 22:17:44
+recall,1.0,2025-07-11 22:17:44
+f1_score,1.0,2025-07-11 22:17:44
